@@ -39,14 +39,14 @@ export default function Table({ data }) {
         },
     ]
 
-    function filter() {
+    // function filter() {
 
-    }
+    // }
 
     return (
         <div>
             <div>
-                <button onClick={filter()}> filter: intelligent</button>
+                {/* <button onClick={filter()}> filter: intelligent</button> */}
                 <div>Employees :</div>
             </div>
             <MaterialTable
