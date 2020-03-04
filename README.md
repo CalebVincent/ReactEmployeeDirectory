@@ -17,8 +17,4 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 ## Technologies Used
 
 React JS
-<<<<<<< HEAD
 JSX / CSS
-=======
-JSX / CSS
->>>>>>> 83c76b9ceecdf67cec986eaea676b8467dc63548

@@ -1,0 +1,7 @@
+React folder= newapp
+Move package.json into the react folder again
+Repo should be the React folder, not one level up
+
+use gh-pages to deploy on Github Pages, not heroku
+
+https://github.com/gitname/react-gh-pages
